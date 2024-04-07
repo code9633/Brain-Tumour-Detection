@@ -32,11 +32,11 @@ Please refer to the Jupyter Notebook file [Brain_Tumor_Detection.ipynb](https://
 
 The model achieves an accuracy of [insert accuracy value]% on the testing set. The training and validation accuracy and loss curves are shown in the accompanying plots.
 
-![Accuracy Curve][acc.PNG]![Loss Curve][loss.PNG]
+![Accuracy Curve](github/acc.PNG!)[Loss Curve](github/loss.PNG)
 
 ## Example Prediction
 
-![Example Image][output.PNG]
+![Example Image]g(ithub/output.PNG)
 
 The above image is predicted to have a brain tumor with a probability of [insert probability value]. The predicted class label is "Brain Tumor".
 
